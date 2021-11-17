@@ -32,3 +32,5 @@ Prof. Palladino Marco
 Prof. Palitto Matteo
 
 test2 from info2
+
+Osella Lorenzo
